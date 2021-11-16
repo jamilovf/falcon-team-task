@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.snapshot-view{
+  border: solid 1px purple;
+  border-radius: 25%;
+  height: 30em;
+  width: 25em;
+  margin-top: 6em;
+}
+
+img {
+  max-width: 95%;
+  max-height: 95%;
+}
+
